@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    app:cardCornerRadius="30dp"
+    app:cardElevation="10dp">
+
+
+    <TextView
+        android:id="@+id/recycler_statistika"
+        android:layout_width="35dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="3dp"
+        android:gravity="center_horizontal"
+        android:textSize="16sp"
+        tools:text="3P%" />
+
+
+</RelativeLayout>

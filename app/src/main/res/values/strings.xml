@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Paceri</string>
+    <string name="btn_roster">roster</string>
+    <string name="btn_stats">stats</string>
+    <string name="btn_schedule">schedule</string>
+    <string name="txt_roster">roster\n</string>
+</resources>
